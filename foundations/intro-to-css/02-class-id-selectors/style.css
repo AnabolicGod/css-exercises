@@ -1,0 +1,19 @@
+.one {
+    font-family: 'Verdana', 'DejaVu Sans', 'sans-serif';
+    background-color: #ff8787;
+}
+
+.one.cool {
+    font-size: 1.5rem;
+}
+
+#one {
+    color: #0000ff;
+    font-size: 2rem;
+}
+
+#two {
+    background-color: #5ff55f;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
