@@ -1,0 +1,13 @@
+.button-common {
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+    font-size: 28px;
+}
+
+.button-one {
+    color: #fff;
+    background-color: #000;
+}
+
+.button-two {
+    background-color: #fbff00e5;
+}
